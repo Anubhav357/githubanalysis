@@ -4,4 +4,4 @@ then try to add a file
 and then learn how to commit changes
 learning how to commit changes
 learning and implementing the use of branch and knowing its benefit
-
+when a person sees your site and if he wants to give you a guidance than he uses issues
