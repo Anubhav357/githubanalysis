@@ -3,3 +3,5 @@ first create a repository
 then try to add a file 
 and then learn how to commit changes
 learning how to commit changes
+learning and implementing the use of branch and knowing its benefit
+
